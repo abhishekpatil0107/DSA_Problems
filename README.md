@@ -1,1 +1,1 @@
-This is folder of DSA problems and solutions
+DSA problems and solutions
